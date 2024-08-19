@@ -3,3 +3,7 @@
 ################################################################################
 
 *.vsidx
+*.json
+*.wsuo
+/SOLID/SOLID/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/SOLID/SOLID/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
