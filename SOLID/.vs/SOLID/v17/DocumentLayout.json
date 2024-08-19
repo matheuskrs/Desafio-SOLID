@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\ocp\\solucao\\models\\subtracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\ocp\\solucao\\models\\subtracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\dip\\solucao\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\dip\\solucao\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\dip\\solucao\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\dip\\solucao\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\dip\\solucao\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\dip\\solucao\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\dip\\violacao\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\dip\\violacao\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\dip\\violacao\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\dip\\violacao\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\srp\\solucao\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\srp\\solucao\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\srp\\violacao\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\srp\\violacao\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\srp\\solucao\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\srp\\solucao\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\srp\\solucao\\services\\reembolsoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\srp\\solucao\\services\\reembolsoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\isp\\solucao\\interfaces\\iaquecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\isp\\solucao\\interfaces\\iaquecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\isp\\solucao\\interfaces\\irefrigerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\isp\\solucao\\interfaces\\irefrigerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\isp\\solucao\\interfaces\\itriturador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\isp\\solucao\\interfaces\\itriturador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\isp\\solucao\\models\\geladeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\isp\\solucao\\models\\geladeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\isp\\violacao\\models\\geladeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\isp\\violacao\\models\\geladeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\isp\\violacao\\interfaces\\ieletrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\isp\\violacao\\interfaces\\ieletrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\lsp\\violacao\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\lsp\\violacao\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\lsp\\violacao\\models\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\lsp\\violacao\\models\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\lsp\\violacao\\models\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\lsp\\violacao\\models\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\lsp\\solucao\\models\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\lsp\\solucao\\models\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\lsp\\solucao\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\lsp\\solucao\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\ocp\\solucao\\models\\soma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\ocp\\solucao\\models\\soma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\ocp\\solucao\\models\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\ocp\\solucao\\models\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\ocp\\solucao\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\ocp\\solucao\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\ocp\\violacao\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\ocp\\violacao\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|c:\\users\\user\\source\\repos\\desafio-solid\\solid\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC280B1-984F-4A17-A31A-10C85F081C58}|SOLID\\SOLID.csproj|solutionrelative:solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\DIP\\Solucao\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SOLID\\DIP\\Solucao\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\DIP\\Solucao\\Services\\ProductService.cs",
+              "RelativeToolTip": "SOLID\\DIP\\Solucao\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:00:37.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\DIP\\Solucao\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SOLID\\DIP\\Solucao\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\DIP\\Solucao\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "SOLID\\DIP\\Solucao\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:59:07.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\DIP\\Solucao\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SOLID\\DIP\\Solucao\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\DIP\\Solucao\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "SOLID\\DIP\\Solucao\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:57:52.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\DIP\\Violacao\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SOLID\\DIP\\Violacao\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\DIP\\Violacao\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "SOLID\\DIP\\Violacao\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:52:49.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\DIP\\Violacao\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SOLID\\DIP\\Violacao\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\DIP\\Violacao\\Services\\ProductService.cs",
+              "RelativeToolTip": "SOLID\\DIP\\Violacao\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:49:26.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITriturador.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Solucao\\Interfaces\\ITriturador.cs",
+              "RelativeDocumentMoniker": "SOLID\\ISP\\Solucao\\Interfaces\\ITriturador.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Solucao\\Interfaces\\ITriturador.cs",
+              "RelativeToolTip": "SOLID\\ISP\\Solucao\\Interfaces\\ITriturador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:41:22.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRefrigerador.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Solucao\\Interfaces\\IRefrigerador.cs",
+              "RelativeDocumentMoniker": "SOLID\\ISP\\Solucao\\Interfaces\\IRefrigerador.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Solucao\\Interfaces\\IRefrigerador.cs",
+              "RelativeToolTip": "SOLID\\ISP\\Solucao\\Interfaces\\IRefrigerador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:40:44.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subtracao.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\OCP\\Solucao\\Models\\Subtracao.cs",
+              "RelativeDocumentMoniker": "SOLID\\OCP\\Solucao\\Models\\Subtracao.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\OCP\\Solucao\\Models\\Subtracao.cs",
+              "RelativeToolTip": "SOLID\\OCP\\Solucao\\Models\\Subtracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:15:48.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Geladeira.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Solucao\\Models\\Geladeira.cs",
+              "RelativeDocumentMoniker": "SOLID\\ISP\\Solucao\\Models\\Geladeira.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Solucao\\Models\\Geladeira.cs",
+              "RelativeToolTip": "SOLID\\ISP\\Solucao\\Models\\Geladeira.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:41:59.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAquecedor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Solucao\\Interfaces\\IAquecedor.cs",
+              "RelativeDocumentMoniker": "SOLID\\ISP\\Solucao\\Interfaces\\IAquecedor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Solucao\\Interfaces\\IAquecedor.cs",
+              "RelativeToolTip": "SOLID\\ISP\\Solucao\\Interfaces\\IAquecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:40:10.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\SRP\\Solucao\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "SOLID\\SRP\\Solucao\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\SRP\\Solucao\\Models\\Item.cs",
+              "RelativeToolTip": "SOLID\\SRP\\Solucao\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:13:27.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\SRP\\Violacao\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "SOLID\\SRP\\Violacao\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\SRP\\Violacao\\Models\\Item.cs",
+              "RelativeToolTip": "SOLID\\SRP\\Violacao\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:08:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReembolsoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\SRP\\Solucao\\Services\\ReembolsoService.cs",
+              "RelativeDocumentMoniker": "SOLID\\SRP\\Solucao\\Services\\ReembolsoService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\SRP\\Solucao\\Services\\ReembolsoService.cs",
+              "RelativeToolTip": "SOLID\\SRP\\Solucao\\Services\\ReembolsoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:16:10.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\SRP\\Solucao\\Services\\PagamentoService.cs",
+              "RelativeDocumentMoniker": "SOLID\\SRP\\Solucao\\Services\\PagamentoService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\SRP\\Solucao\\Services\\PagamentoService.cs",
+              "RelativeToolTip": "SOLID\\SRP\\Solucao\\Services\\PagamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:15:58.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Geladeira.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Violacao\\Models\\Geladeira.cs",
+              "RelativeDocumentMoniker": "SOLID\\ISP\\Violacao\\Models\\Geladeira.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Violacao\\Models\\Geladeira.cs",
+              "RelativeToolTip": "SOLID\\ISP\\Violacao\\Models\\Geladeira.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:37:18.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEletrodomestico.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Violacao\\Interfaces\\IEletrodomestico.cs",
+              "RelativeDocumentMoniker": "SOLID\\ISP\\Violacao\\Interfaces\\IEletrodomestico.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\ISP\\Violacao\\Interfaces\\IEletrodomestico.cs",
+              "RelativeToolTip": "SOLID\\ISP\\Violacao\\Interfaces\\IEletrodomestico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:37:32.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\LSP\\Solucao\\Models\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "SOLID\\LSP\\Solucao\\Models\\PessoaFisica.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\LSP\\Solucao\\Models\\PessoaFisica.cs",
+              "RelativeToolTip": "SOLID\\LSP\\Solucao\\Models\\PessoaFisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:27:24.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\LSP\\Solucao\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "SOLID\\LSP\\Solucao\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\LSP\\Solucao\\Models\\Pessoa.cs",
+              "RelativeToolTip": "SOLID\\LSP\\Solucao\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:26:58.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\LSP\\Violacao\\Models\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "SOLID\\LSP\\Violacao\\Models\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\LSP\\Violacao\\Models\\Bicicleta.cs",
+              "RelativeToolTip": "SOLID\\LSP\\Violacao\\Models\\Bicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:20:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\LSP\\Violacao\\Models\\Carro.cs",
+              "RelativeDocumentMoniker": "SOLID\\LSP\\Violacao\\Models\\Carro.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\LSP\\Violacao\\Models\\Carro.cs",
+              "RelativeToolTip": "SOLID\\LSP\\Violacao\\Models\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:20:11.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Automovel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\LSP\\Violacao\\Models\\Automovel.cs",
+              "RelativeDocumentMoniker": "SOLID\\LSP\\Violacao\\Models\\Automovel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\LSP\\Violacao\\Models\\Automovel.cs",
+              "RelativeToolTip": "SOLID\\LSP\\Violacao\\Models\\Automovel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:18:34.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Soma.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\OCP\\Solucao\\Models\\Soma.cs",
+              "RelativeDocumentMoniker": "SOLID\\OCP\\Solucao\\Models\\Soma.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\OCP\\Solucao\\Models\\Soma.cs",
+              "RelativeToolTip": "SOLID\\OCP\\Solucao\\Models\\Soma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:15:38.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Operacao.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\OCP\\Solucao\\Models\\Operacao.cs",
+              "RelativeDocumentMoniker": "SOLID\\OCP\\Solucao\\Models\\Operacao.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\OCP\\Solucao\\Models\\Operacao.cs",
+              "RelativeToolTip": "SOLID\\OCP\\Solucao\\Models\\Operacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:14:34.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\OCP\\Solucao\\Models\\Calculadora.cs",
+              "RelativeDocumentMoniker": "SOLID\\OCP\\Solucao\\Models\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\OCP\\Solucao\\Models\\Calculadora.cs",
+              "RelativeToolTip": "SOLID\\OCP\\Solucao\\Models\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:13:29.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\OCP\\Violacao\\Models\\Calculadora.cs",
+              "RelativeDocumentMoniker": "SOLID\\OCP\\Violacao\\Models\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\OCP\\Violacao\\Models\\Calculadora.cs",
+              "RelativeToolTip": "SOLID\\OCP\\Violacao\\Models\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T00:12:49.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Desafio-SOLID\\SOLID\\SOLID\\Program.cs",
+              "RelativeToolTip": "SOLID\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:29:39.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
